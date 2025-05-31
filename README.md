@@ -1,19 +1,26 @@
-﻿# To-Do-App-with-Flask
-## This is a simple todo app with flask that can also perform edit and delete operations. 
+# Handwritten-Digit-Recognition 
 
-### Home Page
-![Home Page](images/todo%20list.png)
+## Accuracy of the model
+The model has an accuracy of 96.81%
+![Accuracy](Predicted%20Images/accuracy.png)
 
-### Add Items
 
-![Add Items](images/adding%20items.png)
+## Predicted Results
 
-### Edit Items
+For prediction we chose 5,6, and 9 due to their similarities. The model accurately predicts them.
 
-![Edit Items](images/editing%20items.png)
+### Digit 5
 
-![Edit Items](images/items%20edited.png)
+![Digit 5](Predicted%20Images/predicted5.png)
 
-### Delete Items
+### Digit 6
 
-![Delete Items](images/deleting%20items.png)
+![Digit 6](Predicted%20Images/predicted6.png)
+
+### Digit 9
+
+![Digit 9](Predicted%20Images/predicted9.png)
+
+
+
+
